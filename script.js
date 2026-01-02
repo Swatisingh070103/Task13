@@ -108,8 +108,8 @@ function getResponse(userMessage) {
                                            <span class="timestamp">${getCurrentTime()}</span>
                                        </div>
                                        <div class="feedback-buttons">
-                                           <button class="like-button">ð���</button>
-                                           <button class="unlike-button">ð���</button>
+                                           <button class="like-button">ð   </button>
+                                           <button class="unlike-button">ð   </button>
                                        </div>`;
     chatBody.appendChild(botMessageElement);
     chatBody.scrollTop = chatBody.scrollHeight;
